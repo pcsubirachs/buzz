@@ -1,2 +1,2 @@
-# buzz
-WebLN project
+# Buzz
+
